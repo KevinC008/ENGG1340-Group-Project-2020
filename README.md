@@ -2,8 +2,8 @@
 *Game Coding Project C++*
 
 ## Team member:
+* Chung Shing Chi Kevin 3035686889
 * Shum Pui Yin Bill 3035687443
-* Yeung Wing Pan Stacie 3035691004
 
 ## Story Background: 
 *Once upon a time, there was a mythic monster who hunted and ate humans. Unfortunately, you are being caught. 
@@ -77,6 +77,3 @@ If items are used, the game will load the file which stored the function of cont
 * Program codes in multiple files:
 The main file is responsible for controlling game, management of user input and output of the game. 
 How to use items, fighting process with monster and the movement of player in the game are clustered in isolated files. 
-
-* Proper indentation and naming styles
-* In-code documentation
